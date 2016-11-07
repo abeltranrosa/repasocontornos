@@ -17,7 +17,9 @@ public class CreandoRamas2 {
         area=base*altura/2;
         System.out.println("area es:"+(base*altura));
         
-        //decido si hacer un triangulo o un rectangulo
+        //forzar un conflicto
+        
+        
     }
     
 }
