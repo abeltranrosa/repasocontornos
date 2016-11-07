@@ -17,6 +17,7 @@ public class CreandoRamas2 {
         area=base*altura/2;
         System.out.println("area es:"+(base*altura));
         
+        //ahora no tengo ni idea que hacer
         //forzar un conflicto
         
         
