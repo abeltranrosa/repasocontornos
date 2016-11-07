@@ -16,6 +16,8 @@ public class CreandoRamas2 {
         altura=Float.parseFloat(JOptionPane.showInputDialog("altura"));
         area=base*altura/2;
         System.out.println("area es:"+(base*altura));
+        
+        //decido si hacer un triangulo o un rectangulo
     }
     
 }
